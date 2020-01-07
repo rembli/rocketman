@@ -1,0 +1,9 @@
+1. Neues Conda Environment im Anaconda Navagigator erzeugen
+2. In PyCharm/File/Settings/Conda auf das bestehende Environment (bzw. die Python.exe) verweisen
+3. In der CMD-Shell das Environment aktivieren
+    > activate ml
+4. Zusätzliche pip packages installieren (z.B. über requirments.txt)
+    > pip install -r requirements.txt
+5. ImageCluster manuell installieren
+    > cd /rocketman/src/imagecluster-master
+    > pip3 install -e .
