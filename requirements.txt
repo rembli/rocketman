@@ -9,7 +9,7 @@ setuptools==41.4.0
 Pillow==6.2.0
 numpy==1.17.2
 scikit_learn==0.21.3
-tensorflow==1.15rc2
+tensorflow==2.4.0rc1
 imageio==2.6.1
 imagehash==4.0
 
